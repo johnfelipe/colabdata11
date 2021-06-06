@@ -1,0 +1,5 @@
+classes= 11
+train  = /content/darknet/cattle/cattle11/train.txt
+valid  = /content/darknet/cattle/cattle11/test.txt
+names = /content/darknet/cattle/cattle11/obj.names
+backup = backup/
